@@ -1,0 +1,12 @@
+# File: requirements.txt
+customtkinter
+transformers
+torch
+Pillow
+gTTS
+pygame
+bcrypt
+speechrecognition
+pyaudio
+opencv-python
+googletrans==4.0.0-rc1

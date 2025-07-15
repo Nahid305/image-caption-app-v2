@@ -1,0 +1,31 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+env/
+venv/
+ENV/
+.venv/
+
+# Distribution files
+*.exe
+*.spec
+dist/
+build/
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+*.mp3
+*.wav
+
+# System
+.DS_Store
+Thumbs.db
+
+# Credentials or runtime files
+users.json
+captions.csv
