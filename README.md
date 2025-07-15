@@ -10,14 +10,6 @@
 
 ---
 
-## 📸 Demo
-
-> 👉 Replace `demo.gif` with a real screen recording placed in your repo
-
-![Demo](demo.gif)
-
----
-
 ## 🚀 Features
 
 - 🔐 **Secure Login/Signup** using bcrypt
